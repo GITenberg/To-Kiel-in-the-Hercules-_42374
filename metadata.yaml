@@ -1,0 +1,32 @@
+_repo: To-Kiel-in-the-Hercules-_42374
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42374-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Freeman, Lewis R. (Lewis Ransome)
+    alias: Freeman, Lewis Ransome
+    birthdate: 1878
+    deathdate: 1960
+    gutenberg_agent_id: '36405'
+    url: http://www.gutenberg.org/2009/agents/36405
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_R._Freeman
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2013-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42374'
+  lccn: '19016278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Allied Naval Armistice Commission'
+- !lcsh 'Hercules (Battleship)'
+- !lcsh 'World War, 1914-1918 -- Air-fleet bases, Naval -- Germany'
+title: To Kiel in the 'Hercules'
+url: http://www.gutenberg.org/ebooks/42374
